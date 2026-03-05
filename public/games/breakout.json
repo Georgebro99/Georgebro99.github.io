@@ -1,0 +1,7 @@
+{
+  "id": "breakout",
+  "title": "Breakout",
+  "description": "Destroy all the bricks with your ball and paddle.",
+  "thumbnail": "https://picsum.photos/seed/breakout/400/300",
+  "url": "https://ellisonleao.github.io/cljs-breakout/"
+}
