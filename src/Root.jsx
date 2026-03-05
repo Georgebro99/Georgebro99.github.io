@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 import { Gamepad2, Search, X, Maximize2, ExternalLink } from 'lucide-react';
 import { motion, AnimatePresence } from 'motion/react';
 
-export default function App() {
+export default function Root() {
   const [games, setGames] = useState([]);
   const [filteredGames, setFilteredGames] = useState([]);
   const [searchQuery, setSearchQuery] = useState('');
